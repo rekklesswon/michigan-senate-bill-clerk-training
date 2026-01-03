@@ -123,7 +123,9 @@ Understanding the leadership structure is essential for Bill Clerks, as these po
   - Controls floor schedule
   - Determines which bills come up for votes
   - Primary influence on committee referrals
-- **Most powerful position** in day-to-day Senate operations
+
+!!! tip "For Your Job"
+    The Majority Leader is the **most powerful position** in day-to-day Senate operations. Pay close attention to their actions and statements.
 
 ### Minority Leader
 - **Elected by:** Minority party caucus

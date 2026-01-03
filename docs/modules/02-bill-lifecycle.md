@@ -29,12 +29,12 @@ By the end of this module, you will be able to:
 
 Becoming a law in Michigan is deliberately difficult. The process includes multiple checkpoints, readings, and votes to ensure thorough review. Most bills do NOT become law. Understanding each stage helps Bill Clerks accurately track and code bill status.
 
-**Key Numbers to Remember:**
-- **3 readings** required for each bill
-- **5 days** bill must be available before final passage (five-day rule)
-- **20 votes** needed for passage (majority of 38)
-- **26 votes** needed for immediate effect (2/3 of 38)
-- **90 days** after session adjournment: when laws take effect without immediate effect clause
+!!! note "Key Numbers to Remember"
+    - **3 readings** required for each bill
+    - **5 days** bill must be available before final passage (five-day rule)
+    - **20 votes** needed for passage (majority of 38)
+    - **26 votes** needed for immediate effect (2/3 of 38)
+    - **90 days** after session adjournment: when laws take effect without immediate effect clause
 
 ---
 
@@ -54,8 +54,8 @@ Becoming a law in Michigan is deliberately difficult. The process includes multi
 - Note the sponsor(s) and date
 - Record first reading
 
-**Example:**
-"Senate Bill 143, sponsored by Senator Jones, a bill to amend the vehicle code regarding electric vehicles. First reading."
+!!! example "Example"
+    "Senate Bill 143, sponsored by Senator Jones, a bill to amend the vehicle code regarding electric vehicles. First reading."
 
 **Note:** Sometimes multiple bills are introduced in a batch with quick first readings.
 
@@ -160,8 +160,8 @@ Bills involving spending usually go to a policy committee first, then to Appropr
 
 ### Stage 5: Five-Day Rule ⏰
 
-**Critical Requirement:**
-After a bill is placed on Third Reading calendar, it **must be available in its final form for at least 5 calendar days** before the Senate can take a final vote.
+!!! warning "Critical Requirement"
+    After a bill is placed on Third Reading calendar, it **must be available in its final form for at least 5 calendar days** before the Senate can take a final vote.
 
 **Purpose:**
 - Gives legislators time to read final version
@@ -183,7 +183,8 @@ After a bill is placed on Third Reading calendar, it **must be available in its 
 - Calculate earliest date for final vote
 - Flag if bill is voted on too early (procedural error)
 
-**Common Mistake:** Counting 5 session days instead of 5 calendar days. Always count calendar days!
+!!! danger "Common Mistake"
+    Counting 5 session days instead of 5 calendar days. Always count calendar days!
 
 ---
 

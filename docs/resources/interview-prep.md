@@ -110,6 +110,9 @@ Show you value accuracy over appearance of knowledge
 **How to answer:**
 Give precise, accurate information
 
+!!! success "Interview Tip"
+    This is a test question! They want to see if you know the difference between calendar days and session days. Emphasize "calendar days" in your answer.
+
 **Example Answer:**
 "The five-day rule requires that a bill be available in its final form for 5 calendar days - not session days, but calendar days including weekends - after being placed on the Third Reading calendar before the Senate can vote on final passage. For example, if a bill is placed on Third Reading on a Monday, it's eligible for final vote starting the following Saturday. This gives legislators and the public time to review the bill's final language. The rule can be waived by a 2/3 vote, but that's rare and usually reserved for emergencies."
 

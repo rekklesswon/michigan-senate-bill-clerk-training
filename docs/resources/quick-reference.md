@@ -2,7 +2,8 @@
 
 **Purpose:** One-page reference for quick lookup during training and work
 
-**Print this page and keep it handy!**
+!!! tip "Print This!"
+    Print this page and keep it handy during your training and on the job. Laminate it for durability!
 
 ---
 
