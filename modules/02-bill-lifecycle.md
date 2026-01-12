@@ -5,6 +5,7 @@
 ## Learning Objectives
 
 By the end of this module, you will be able to:
+
 - Trace a bill through all stages from introduction to enactment
 - Explain the three readings requirement and the five-day rule
 - Describe committee actions and their impact on bills
@@ -16,6 +17,7 @@ By the end of this module, you will be able to:
 ---
 
 ## Navigation
+
 **Previous:** [Module 1: Foundations](01-foundations.md)  
 **Next:** [Module 3: Committee Process](03-committee-process.md)  
 **Back to:** [Course Home](../README.md)
@@ -27,6 +29,7 @@ By the end of this module, you will be able to:
 Becoming a law in Michigan is deliberately difficult. The process includes multiple checkpoints, readings, and votes to ensure thorough review. Most bills do NOT become law. Understanding each stage helps Bill Clerks accurately track and code bill status.
 
 **Key Numbers to Remember:**
+
 - **3 readings** required for each bill
 - **5 days** bill must be available before final passage (five-day rule)
 - **20 votes** needed for passage (majority of 38)
@@ -40,6 +43,7 @@ Becoming a law in Michigan is deliberately difficult. The process includes multi
 ### Stage 1: Introduction (First Reading)
 
 **What Happens:**
+
 - A Senator sponsors a bill and files it with the Secretary of the Senate
 - Bill receives a number (SB 1, SB 2, etc., in order of introduction)
 - Bill is read by title (or just the bill number) on the Senate floor
@@ -47,6 +51,7 @@ Becoming a law in Michigan is deliberately difficult. The process includes multi
 - Bill is printed and made available to legislators and public
 
 **Bill Clerk Action:**
+
 - Code bill as "introduced"
 - Note the sponsor(s) and date
 - Record first reading
@@ -61,12 +66,14 @@ Becoming a law in Michigan is deliberately difficult. The process includes multi
 ### Stage 2: Committee Referral
 
 **What Happens:**
+
 - Immediately after first reading, the bill is referred to a committee by Senate leadership (primarily the Majority Leader)
 - Referral is based on the bill's subject matter
-- Majority Leader has primary authority for committee referrals
+- Majority Leader Controls all committee referrals
 - Can be referred to multiple committees (first to one, then to another)
 
 **Bill Clerk Action:**
+
 - Code which committee receives the bill
 - Note date of referral
 
@@ -81,6 +88,7 @@ Bills involving spending usually go to a policy committee first, then to Appropr
 ### Stage 3: Committee Action
 
 **What Happens in Committee:**
+
 - Chair decides whether to hold a hearing (not all bills get hearings)
 - Public hearings allow testimony from experts, citizens, lobbyists
 - Committee members question witnesses and debate bill
@@ -90,23 +98,28 @@ Bills involving spending usually go to a policy committee first, then to Appropr
 **Possible Committee Actions:**
 
 1. **Reported with Recommendation "Do Pass"**
+
    - Committee approves bill as written
    - Goes to General Orders (Committee of the Whole)
 
 2. **Reported with Recommendation "Do Pass as Amended"**
+
    - Committee made changes and approves amended version
    - Goes to General Orders
 
 3. **Reported with Substitute (Committee Substitute)**
+
    - Committee rewrote significant portions
    - Original bill replaced with substitute
    - Goes to General Orders
 
 4. **Referred to Another Committee**
+
    - Sent to different committee (e.g., policy committee sends to Appropriations)
    - Common for bills with fiscal impact
 
 5. **Postponed**
+
    - Delayed for future consideration
    - May or may not come back
 
@@ -116,6 +129,7 @@ Bills involving spending usually go to a policy committee first, then to Appropr
    - **Most bills die this way**
 
 **Bill Clerk Action:**
+
 - Code committee action accurately
 - Note any amendments or substitutes
 - Record date of committee report
@@ -130,6 +144,7 @@ Bills involving spending usually go to a policy committee first, then to Appropr
 ### Stage 4: General Orders (Committee of the Whole) - Second Reading
 
 **What is General Orders?**
+
 - "Committee of the Whole" means the entire Senate acts as one big committee
 - Less formal than Third Reading
 - This is where most debate and amendments happen
@@ -137,6 +152,7 @@ Bills involving spending usually go to a policy committee first, then to Appropr
 - Sometimes called "Second Reading"
 
 **What Happens:**
+
 - Bill is placed on General Orders calendar
 - Sponsor explains bill to full Senate
 - Senators debate and offer floor amendments
@@ -144,6 +160,7 @@ Bills involving spending usually go to a policy committee first, then to Appropr
 - Senate votes to advance bill to Third Reading (or not)
 
 **Bill Clerk Action:**
+
 - Code bill as "on General Orders"
 - Record all amendments offered and their outcomes (adopted/defeated)
 - Note when bill advances to Third Reading
@@ -161,21 +178,25 @@ Bills involving spending usually go to a policy committee first, then to Appropr
 After a bill is placed on Third Reading calendar, it **must be available in its final form for at least 5 calendar days** before the Senate can take a final vote.
 
 **Purpose:**
+
 - Gives legislators time to read final version
 - Allows public to see what will be voted on
 - Prevents surprise legislation
 
 **How It Works:**
+
 - Count 5 full calendar days (not session days)
 - Includes weekends and holidays
 - Bill placed on Third Reading Monday → eligible for final vote Saturday
 - Bill placed on Third Reading Friday → eligible for final vote Wednesday
 
 **Exceptions:**
+
 - Can be waived by 2/3 vote of Senate (rare)
 - Emergency situations (extremely rare)
 
 **Bill Clerk Action:**
+
 - Track when bill placed on Third Reading
 - Calculate earliest date for final vote
 - Flag if bill is voted on too early (procedural error)
@@ -187,6 +208,7 @@ After a bill is placed on Third Reading calendar, it **must be available in its 
 ### Stage 6: Third Reading and Final Passage 🗳️
 
 **What Happens:**
+
 - This is the final, formal vote on the bill
 - Bill is read by title (Third Reading)
 - Limited debate (no amendments allowed without special consent)
@@ -196,17 +218,20 @@ After a bill is placed on Third Reading calendar, it **must be available in its 
 **Voting Requirements:**
 
 **For Passage:**
+
 - **20 votes** (majority of 38) required
 - If bill receives 20+ votes: **PASSED**
 - If bill receives fewer than 20 votes: **DEFEATED**
 
 **For Immediate Effect:**
+
 - If bill is to take effect immediately upon signing (not waiting 90 days)
 - Requires **26 votes** (2/3 of 38)
 - Separate vote after passage vote
 - Requires recorded roll call
 
 **Bill Clerk Action:**
+
 - Code Third Reading
 - Record vote count (Yeas, Nays, Excused, Not Voting)
 - Note if bill passed or defeated
@@ -222,6 +247,7 @@ After a bill is placed on Third Reading calendar, it **must be available in its 
 ### Stage 7: Other Chamber (House of Representatives)
 
 **What Happens:**
+
 - Passed Senate bill goes to House
 - House goes through same process: first reading, committee referral, committee action, General Orders, Third Reading
 - House may pass bill as is, amend it, or defeat it
@@ -229,11 +255,13 @@ After a bill is placed on Third Reading calendar, it **must be available in its 
 **Three Possible Outcomes:**
 
 1. **House Passes Bill as Sent from Senate**
+
    - Identical version passed
    - Bill goes to Governor
    - No further Senate action needed
 
 2. **House Passes Bill with Amendments**
+
    - House changed the bill
    - Amended version comes back to Senate
    - Senate must decide: concur (agree) or non-concur (disagree)
@@ -244,6 +272,7 @@ After a bill is placed on Third Reading calendar, it **must be available in its 
    - Senate cannot force House to act
 
 **Bill Clerk Action (Senate Side):**
+
 - Code bill as "sent to House"
 - Track when House acts
 - Code House passage or amendments
@@ -257,6 +286,7 @@ After a bill is placed on Third Reading calendar, it **must be available in its 
 **If House Amends a Senate Bill:**
 
 #### Option A: Senate Concurs
+
 - Senate votes to accept House amendments
 - Requires majority vote (20 votes)
 - If Senate concurs, bill goes to Governor
@@ -266,6 +296,7 @@ After a bill is placed on Third Reading calendar, it **must be available in its 
 "The question being on concurrence in House amendments to Senate Bill 143. The Senate concurred. Yeas 24, Nays 14."
 
 #### Option B: Senate Non-Concurs
+
 - Senate rejects House amendments
 - Senate can request Conference Committee
 - **Bill Clerk Action:** Code "Senate non-concurred in House amendments"
@@ -274,6 +305,7 @@ After a bill is placed on Third Reading calendar, it **must be available in its 
 "The question being on concurrence in House amendments to Senate Bill 143. The Senate non-concurred. Senator Jones moves that a Conference Committee be appointed."
 
 #### Conference Committee Process:
+
 - 3 Senators and 3 Representatives appointed
 - Committee negotiates compromise between versions
 - Produces a **Conference Report**
@@ -282,6 +314,7 @@ After a bill is placed on Third Reading calendar, it **must be available in its 
 - If either rejects: bill dies (or new conference committee formed)
 
 **Bill Clerk Action for Conference:**
+
 - Code appointment of conferees
 - Track Conference Report
 - Record votes on Conference Report in Senate
@@ -296,6 +329,7 @@ Bill is "enrolled" (officially prepared) and sent to Governor.
 **Governor Has Three Options:**
 
 #### Option 1: Sign the Bill ✍️
+
 - Governor signs bill into law
 - Becomes a **Public Act** (PA)
 - Receives PA number (PA 1 of 2026, PA 2 of 2026, etc.)
@@ -304,6 +338,7 @@ Bill is "enrolled" (officially prepared) and sent to Governor.
   - **If no immediate effect:** Takes effect 90 days after Legislature adjourns for the year
 
 #### Option 2: Veto the Bill 🚫
+
 - Governor rejects bill
 - Sends veto message back to Legislature
 - Legislature can override veto with **2/3 vote in both chambers** (26 in Senate, 74 in House)
@@ -311,11 +346,13 @@ Bill is "enrolled" (officially prepared) and sent to Governor.
 - If override succeeds: becomes law without Governor's signature
 
 #### Option 3: Do Nothing (Pocket Veto) ⏱️
+
 - Governor neither signs nor vetoes
 - If Legislature is in session: Bill becomes law after 14 days without signature
 - If Legislature has adjourned for the year: Bill dies (true pocket veto)
 
 **Bill Clerk Action:**
+
 - Code bill as "enrolled and sent to Governor"
 - Track Governor's action
 - Record PA number if signed
@@ -374,7 +411,7 @@ Do Pass   Do Pass As   to Another   (BILL DIES)
 [7. SENT TO HOUSE]
     |
     v
-[HOUSE PROCESS: First Reading, Committee, 
+[HOUSE PROCESS: First Reading, Committee,
  General Orders, Third Reading]
     |
     +------------------+------------------+
@@ -482,36 +519,43 @@ House Passes     House Passes       House Defeats
 Most bills do NOT become law. Here's where they typically fail:
 
 ### 1. **Dies in Committee (Most Common)**
-   - Committee chair never schedules hearing
-   - Committee votes down bill
-   - Committee postpones indefinitely
-   - **Estimate:** 60-70% of bills die in committee
+
+- Committee chair never schedules hearing
+- Committee votes down bill
+- Committee postpones indefinitely
+- **Estimate:** 60-70% of bills die in committee
 
 ### 2. **Fails on Third Reading**
-   - Cannot get 20 votes for passage
-   - Political opposition too strong
+
+- Cannot get 20 votes for passage
+- Political opposition too strong
 
 ### 3. **Fails in Other Chamber**
-   - House kills Senate bill (or vice versa)
-   - Committee in other chamber blocks bill
-   - Other chamber runs out of time
+
+- House kills Senate bill (or vice versa)
+- Committee in other chamber blocks bill
+- Other chamber runs out of time
 
 ### 4. **Conference Committee Fails**
-   - Cannot reach compromise
-   - One chamber rejects Conference Report
+
+- Cannot reach compromise
+- One chamber rejects Conference Report
 
 ### 5. **Governor Vetoes**
-   - Override attempt fails (need 2/3 in both chambers)
+
+- Override attempt fails (need 2/3 in both chambers)
 
 ### 6. **Time Runs Out**
-   - Legislature adjourns before completing process
-   - Bills do not carry over to next session
-   - Must be reintroduced in new session
+
+- Legislature adjourns before completing process
+- Bills do not carry over to next session
+- Must be reintroduced in new session
 
 ### 7. **Procedural Errors**
-   - Five-day rule violated
-   - Improper committee referral
-   - Constitutional problems discovered
+
+- Five-day rule violated
+- Improper committee referral
+- Constitutional problems discovered
 
 **Key Insight:** The system is designed to make passing laws difficult. This ensures only bills with broad support become law.
 
@@ -519,23 +563,23 @@ Most bills do NOT become law. Here's where they typically fail:
 
 ## Key Terminology for Bill Clerks
 
-| Term | Meaning |
-|------|---------|
-| **First Reading** | Bill introduced and given number |
-| **Second Reading** | General Orders (Committee of the Whole) |
-| **Third Reading** | Final passage vote |
-| **General Orders** | Committee of the Whole; amendment stage |
-| **Five-Day Rule** | Bill must be available 5 calendar days before final vote |
-| **Immediate Effect** | Law takes effect immediately upon signing (requires 2/3 vote) |
-| **Enrolled** | Bill officially prepared after passing both chambers |
-| **Public Act (PA)** | Enacted law (e.g., PA 85 of 2026) |
-| **Concur** | Agree to other chamber's amendments |
-| **Non-Concur** | Reject other chamber's amendments |
-| **Conference Committee** | Joint committee to resolve House-Senate differences |
-| **Conference Report** | Compromise version from conference committee |
-| **Veto** | Governor rejects bill |
-| **Override** | Legislature passes bill over Governor's veto (2/3 vote) |
-| **Pocket Veto** | Bill dies when Governor takes no action after adjournment |
+| Term                     | Meaning                                                       |
+| ------------------------ | ------------------------------------------------------------- |
+| **First Reading**        | Bill introduced and given number                              |
+| **Second Reading**       | General Orders (Committee of the Whole)                       |
+| **Third Reading**        | Final passage vote                                            |
+| **General Orders**       | Committee of the Whole; amendment stage                       |
+| **Five-Day Rule**        | Bill must be available 5 calendar days before final vote      |
+| **Immediate Effect**     | Law takes effect immediately upon signing (requires 2/3 vote) |
+| **Enrolled**             | Bill officially prepared after passing both chambers          |
+| **Public Act (PA)**      | Enacted law (e.g., PA 85 of 2026)                             |
+| **Concur**               | Agree to other chamber's amendments                           |
+| **Non-Concur**           | Reject other chamber's amendments                             |
+| **Conference Committee** | Joint committee to resolve House-Senate differences           |
+| **Conference Report**    | Compromise version from conference committee                  |
+| **Veto**                 | Governor rejects bill                                         |
+| **Override**             | Legislature passes bill over Governor's veto (2/3 vote)       |
+| **Pocket Veto**          | Bill dies when Governor takes no action after adjournment     |
 
 ---
 
@@ -544,24 +588,28 @@ Most bills do NOT become law. Here's where they typically fail:
 <details>
 <summary><strong>Question 1:</strong> What are the three readings a bill must receive?</summary>
 
-**Answer:** 
+**Answer:**
+
 1. **First Reading:** Introduction and assignment to committee
 2. **Second Reading:** General Orders (Committee of the Whole) - debate and amendment stage
 3. **Third Reading:** Final passage vote
 
 Note: In practice, First Reading is just reading the bill number/title, Second Reading is General Orders, and Third Reading is the final vote.
+
 </details>
 
 <details>
 <summary><strong>Question 2:</strong> A bill is placed on the Third Reading calendar on Monday, March 3. What is the earliest date the Senate can vote on final passage?</summary>
 
 **Answer:** Saturday, March 8 (five full calendar days later). The five-day rule requires 5 calendar days (not session days) to pass before final vote.
+
 </details>
 
 <details>
 <summary><strong>Question 3:</strong> How many votes are needed to pass a bill in the Senate? How many for immediate effect?</summary>
 
-**Answer:** 
+**Answer:**
+
 - **20 votes** (majority of 38) needed for passage
 - **26 votes** (2/3 of 38) needed for immediate effect
 </details>
@@ -570,12 +618,14 @@ Note: In practice, First Reading is just reading the bill number/title, Second R
 <summary><strong>Question 4:</strong> What happens during General Orders (Committee of the Whole)?</summary>
 
 **Answer:** General Orders is the stage where the full Senate debates the bill and considers amendments. Senators can offer floor amendments, which are voted on. After debate and amendments, the Senate votes to advance the bill to Third Reading. This is a less formal stage than Third Reading.
+
 </details>
 
 <details>
 <summary><strong>Question 5:</strong> The House passes a Senate bill with amendments. What are the Senate's options?</summary>
 
-**Answer:** 
+**Answer:**
+
 1. **Concur** - Accept the House amendments (requires 20 votes); bill goes to Governor
 2. **Non-concur** - Reject the House amendments; typically leads to requesting a Conference Committee to negotiate a compromise
 </details>
@@ -583,7 +633,8 @@ Note: In practice, First Reading is just reading the bill number/title, Second R
 <details>
 <summary><strong>Question 6:</strong> What are the three options the Governor has when a bill reaches their desk?</summary>
 
-**Answer:** 
+**Answer:**
+
 1. **Sign** - Bill becomes a Public Act (law)
 2. **Veto** - Reject the bill (Legislature can override with 2/3 vote)
 3. **Do Nothing** - Bill becomes law after 14 days if Legislature is in session; dies if Legislature has adjourned (pocket veto)
@@ -593,36 +644,42 @@ Note: In practice, First Reading is just reading the bill number/title, Second R
 <summary><strong>Question 7:</strong> A bill passes the Senate and House with immediate effect. When does the law take effect if the Governor signs it?</summary>
 
 **Answer:** Immediately upon the Governor's signature. The immediate effect clause allows laws to take effect right away instead of waiting 90 days after session ends.
+
 </details>
 
 <details>
 <summary><strong>Question 8:</strong> What is the most common way bills die in the Legislature?</summary>
 
 **Answer:** Dying in committee (no action taken). The committee chair simply never schedules a hearing on the bill, or the committee votes it down. Approximately 60-70% of bills die in committee.
+
 </details>
 
 <details>
 <summary><strong>Question 9:</strong> True or False: If both chambers pass a bill but in different forms, the bill can still go to the Governor.</summary>
 
 **Answer:** False. Both chambers must pass the bill in **identical form** before it goes to the Governor. If the versions differ, the chambers must resolve the differences (through concurrence or conference committee).
+
 </details>
 
 <details>
 <summary><strong>Question 10:</strong> What is a Conference Report and when is it used?</summary>
 
 **Answer:** A Conference Report is a compromise version of a bill created by a Conference Committee (3 Senators + 3 Representatives) when the two chambers pass different versions and cannot reach agreement through concurrence. Both chambers must approve the Conference Report without amendments for the bill to proceed to the Governor.
+
 </details>
 
 <details>
 <summary><strong>Question 11:</strong> Without immediate effect, when do Michigan laws take effect?</summary>
 
 **Answer:** 90 days after the Legislature adjourns for the year (sine die adjournment). This is why most bills include immediate effect clauses.
+
 </details>
 
 <details>
 <summary><strong>Question 12:</strong> Can amendments be offered during Third Reading?</summary>
 
 **Answer:** Generally no. Third Reading is for final passage vote only. Amendments are debated and adopted during General Orders (Second Reading). Amendments during Third Reading require special consent, which is rare.
+
 </details>
 
 ---
@@ -653,6 +710,7 @@ Note: In practice, First Reading is just reading the bill number/title, Second R
 "Third Reading of Senate Bill 421. The question being on passage of the bill. The bill passed, Yeas 28, Nays 10. Senator Williams moves immediate effect. The question being on immediate effect. Yeas 27, Nays 11. Immediate effect is granted."
 
 **Questions for you:**
+
 1. What committees reviewed this bill?
 2. How many times was the bill amended (that you can tell)?
 3. How many days must pass before Third Reading vote?
@@ -701,15 +759,16 @@ A: Yes. You'll see this process hundreds of times. After a few weeks, it becomes
 ✅ Both chambers must pass identical versions  
 ✅ Most bills die in committee (never get a hearing)  
 ✅ Governor can sign, veto, or do nothing  
-✅ Bill Clerks track every step accurately in real-time  
+✅ Bill Clerks track every step accurately in real-time
 
 ---
 
 ## Navigation
+
 **Previous:** [Module 1: Foundations](01-foundations.md)  
 **Next:** [Module 3: Committee Process](03-committee-process.md)  
 **Back to:** [Course Home](../README.md)
 
 ---
 
-*Last Updated: January 2026 for 2025-2026 Legislative Session*
+_Last Updated: January 2026 for 2025-2026 Legislative Session_
