@@ -105,7 +105,7 @@ Understanding the leadership structure is essential for Bill Clerks, as these po
 - **Position held by:** Lieutenant Governor of Michigan
 - **Role:** Presides over Senate sessions, maintains order, recognizes speakers
 - **Voting:** Only votes to break ties (rare)
-- **Powers:** Refers bills to committees (in consultation with Majority Leader)
+- **Powers:** While presiding over sessions, the President's only substantive power is casting tie-breaking votes
 
 ### President Pro Tempore (Pro Tem)
 - **Elected by:** Senate membership
@@ -119,7 +119,7 @@ Understanding the leadership structure is essential for Bill Clerks, as these po
   - Sets legislative agenda
   - Controls floor schedule
   - Determines which bills come up for votes
-  - Primary influence on committee referrals
+  - Primary authority for committee referrals
 - **Most powerful position** in day-to-day Senate operations
 
 ### Minority Leader
@@ -342,7 +342,7 @@ Test your understanding of Michigan government foundations:
 <details>
 <summary><strong>Question 3:</strong> Which Senate leadership position has the most day-to-day power over the legislative agenda?</summary>
 
-**Answer:** The Majority Leader controls the legislative agenda, determines which bills come up for votes, and has primary influence on committee referrals.
+**Answer:** The Majority Leader controls the legislative agenda, determines which bills come up for votes, and has primary authority for committee referrals.
 </details>
 
 <details>

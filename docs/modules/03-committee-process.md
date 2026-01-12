@@ -938,7 +938,7 @@ Next stage: Bill stays in committee; may be reconsidered later (or may die)
 ## Notes for Instructor Q&A
 
 **Q: How do I know which committee a bill should go to if the subject overlaps multiple committees?**  
-A: Leadership (President of Senate and Majority Leader) makes the final decision. Some bills could go to multiple committees. Listen for the referral announcement. Don't guess - wait for the official referral.
+A: Senate leadership (primarily the Majority Leader) makes the final decision. Some bills could go to multiple committees. Listen for the referral announcement. Don't guess - wait for the official referral.
 
 **Q: Can a bill skip committee?**  
 A: Extremely rare. Theoretically possible with a discharge motion, but virtually all bills go through committee. The committee process is considered essential.
