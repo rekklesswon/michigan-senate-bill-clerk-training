@@ -149,8 +149,11 @@ Understanding the leadership structure is essential for Bill Clerks, as these po
 - **Critical during:** Close votes and important legislation
 
 ### Committee Chairs and Vice Chairs
-- Each of the 17 standing committees has a Chair (majority party) and Vice Chair(s)
-- Chairs control committee agendas and when bills receive hearings
+- Each of the 17 standing committees has a Chair and two Vice Chairs
+- **Appointed by:** Majority Leader appoints the Chair, Majority Vice Chair, and Minority Vice Chair
+- **Chair:** From majority party, controls committee agendas and when bills receive hearings
+- **Majority Vice Chair:** From majority party, assists chair
+- **Minority Vice Chair:** From minority party, represents minority interests on committee
 
 ```
 SENATE LEADERSHIP HIERARCHY (Majority Party)
