@@ -380,7 +380,7 @@ Legislative proceedings use precise, sometimes archaic language. As a Bill Clerk
 
 ### President of the Senate
 **Definition:** Lt. Governor presiding over Senate  
-**Role:** Runs sessions, recognizes speakers, refers bills to committees
+**Role:** Runs sessions, recognizes speakers; only substantive power is casting tie-breaking votes
 
 ---
 
@@ -392,7 +392,7 @@ Legislative proceedings use precise, sometimes archaic language. As a Bill Clerk
 
 ### Majority Leader
 **Definition:** Leader of party with most seats  
-**Role:** Controls agenda, schedules votes, most powerful position
+**Role:** Controls agenda, schedules votes, has primary authority for committee referrals; most powerful position
 
 ---
 
