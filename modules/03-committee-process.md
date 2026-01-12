@@ -391,21 +391,35 @@ Committees are where the real work of the Legislature happens. They:
 ## Committee Roles and Structure
 
 ### Committee Chair
+**Appointed by:** Majority Leader
+
 **Powers:**
 - Sets committee agenda
 - Decides which bills get hearings
 - Chairs committee meetings
 - Controls debate and recognition
 - **Most important power:** Can kill bills by never scheduling hearings
-- Typically from majority party
+- From majority party
 
 **Influence:** The chair controls the committee. If chair opposes a bill, it rarely moves forward.
 
-### Committee Vice Chair(s)
+### Majority Vice Chair
+**Appointed by:** Majority Leader
+
+**Role:**
+- From majority party
 - Assists chair
 - Presides when chair is absent
 - May have special responsibilities (e.g., budget subcommittees)
-- Usually from majority party, but sometimes one vice chair from minority party
+
+### Minority Vice Chair
+**Appointed by:** Majority Leader
+
+**Role:**
+- From minority party
+- Represents minority party interests on committee
+- Presides when both chair and majority vice chair are absent
+- Provides minority perspective in committee deliberations
 
 ### Committee Members
 - Attend hearings and meetings
