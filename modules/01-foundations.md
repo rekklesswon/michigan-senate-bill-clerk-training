@@ -105,7 +105,7 @@ Understanding the leadership structure is essential for Bill Clerks, as these po
 - **Position held by:** Lieutenant Governor of Michigan
 - **Role:** Presides over Senate sessions, maintains order, recognizes speakers
 - **Voting:** Only votes to break ties (rare)
-- **Powers:** Refers bills to committees (in consultation with Majority Leader)
+- **Powers:** Ceremonial role; primary power is tie-breaking vote
 
 ### President Pro Tempore (Pro Tem)
 - **Elected by:** Senate membership

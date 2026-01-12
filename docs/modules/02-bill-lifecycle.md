@@ -64,9 +64,9 @@ Becoming a law in Michigan is deliberately difficult. The process includes multi
 ### Stage 2: Committee Referral
 
 **What Happens:**
-- Immediately after first reading, the President of the Senate (Lt. Governor) refers the bill to a committee
+- Immediately after first reading, the bill is referred to a committee by Senate leadership
 - Referral is based on the bill's subject matter
-- Majority Leader has primary influence on committee referrals
+- Majority Leader determines committee referrals
 - Can be referred to multiple committees (first to one, then to another)
 
 **Bill Clerk Action:**

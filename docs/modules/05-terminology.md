@@ -380,7 +380,7 @@ Legislative proceedings use precise, sometimes archaic language. As a Bill Clerk
 
 ### President of the Senate
 **Definition:** Lt. Governor presiding over Senate  
-**Role:** Runs sessions, recognizes speakers, refers bills to committees
+**Role:** Presides over sessions, recognizes speakers, casts tie-breaking votes
 
 ---
 
